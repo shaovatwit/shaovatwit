@@ -32,7 +32,7 @@ I am a student.
 ![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github&logoColor=ffffff)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-0C1324?style=flat-square&logo=Notepad%2B%2B&&logoColor=ffffff)
-![IntelliJ](https://img.shields.io/badge/-InteliJ-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
+![InteliJ](https://img.shields.io/badge/-InteliJ-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
 ![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven&logoColor=ffffff)
 <!--![Gradle](https://img.shields.io/badge/-Gradle-0C1324?style=flat-square&logo=gradle&logoColor=ffffff)-->
 
