@@ -1,12 +1,12 @@
 # Welcome :wave:!
 ### :bearded_person: About Me
 - My pronouns are she/her/hers.
-- I enjoy going to the gym and rock climbing.
+- I enjoy going to the gym.
 - I am still learning and trying to constantly enrich my knowledge.
 - You can contact me via Email: shaov@wit.edu.
 
 ### :gear: Current Work
-I'm collaborating on a Minecraft project that includes learning lots of new things.
+I am a student.
 
 <!--
 **Am I Looking for work?**
@@ -32,7 +32,7 @@ I'm collaborating on a Minecraft project that includes learning lots of new thin
 ![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github&logoColor=ffffff)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-0C1324?style=flat-square&logo=Notepad%2B%2B&&logoColor=ffffff)
-![InteliJ](https://img.shields.io/badge/-InteliJ-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/-InteliJ-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
 ![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven&logoColor=ffffff)
 <!--![Gradle](https://img.shields.io/badge/-Gradle-0C1324?style=flat-square&logo=gradle&logoColor=ffffff)-->
 
