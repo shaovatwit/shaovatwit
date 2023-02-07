@@ -11,8 +11,6 @@ I am a student.
 <!--
 **Am I Looking for work?**
 - Currently as I'm working on a privte project I'm not looking to join any projects, unless I like the idea, and feel like I'd have fun working on it.
--->
-<!-- 
 ### :keyboard: Languages/Databases
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=Oracle&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-0C1324?style=flat-square&logo=html5&logoColor=ffffff)
@@ -24,7 +22,7 @@ I am a student.
 <!--[Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)-->
 <!--![PHP](https://img.shields.io/badge/-PHP-0C1324?style=flat-square&logo=PHP&logoColor=ffffff)-->
 
-### :computer: Operating Systems/Tools
+<!-- ### :computer: Operating Systems/Tools
 ![Windows](https://img.shields.io/badge/-Windows-0C1324?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-0C1324?style=flat-square&logo=linux&logoColor=ffffff)
 ![Centos](https://img.shields.io/badge/-Centos-0C1324?style=flat-square&logo=centos&logoColor=ffffff)
@@ -33,8 +31,7 @@ I am a student.
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github&logoColor=ffffff)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-0C1324?style=flat-square&logo=Notepad%2B%2B&&logoColor=ffffff)
 ![InteliJ](https://img.shields.io/badge/-InteliJ-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
-![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven&logoColor=ffffff)
-<!--![Gradle](https://img.shields.io/badge/-Gradle-0C1324?style=flat-square&logo=gradle&logoColor=ffffff)--> -->
+![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven&logoColor=ffffff) -->
 
 <!--
 **shaovatwit/shaovatwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
