@@ -1,8 +1,6 @@
 # Welcome :wave:!
 ### :bearded_person: About Me
 - My pronouns are she/her/hers.
-- I enjoy going to the gym.
-- I am still learning and trying to constantly enrich my knowledge.
 - You can contact me via Email: shaov@wit.edu.
 
 ### :gear: Current Work
