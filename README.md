@@ -4,7 +4,7 @@
 - You can contact me via Email: shaov@wit.edu.
 
 ### :gear: Current Work
-I am a student.
+I am a Reliability Engineer! :)
 
 <!--
 **Am I Looking for work?**
